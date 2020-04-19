@@ -9,7 +9,7 @@
 <!--        <Logger name="pl.hermes" level="ALL">-->
 <!--            <AppenderRef ref="Console"/>-->
 <!--        </Logger>-->
-        <Root level="INFO">
+        <Root level="ALL">
             <AppenderRef ref="Console"/>
         </Root>
     </Loggers>
